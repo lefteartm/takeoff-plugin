@@ -1,0 +1,14 @@
+{
+  "name": "lefteartm-takeoff",
+  "owner": {
+    "name": "lefteartm"
+  },
+  "plugins": [
+    {
+      "name": "plan-takeoff",
+      "source": "./plugins/plan-takeoff",
+      "description": "Quantity takeoffs from building plans using the OpenTakeoff measuring engine.",
+      "version": "0.1.0"
+    }
+  ]
+}
