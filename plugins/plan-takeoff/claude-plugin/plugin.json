@@ -1,0 +1,9 @@
+{
+  "name": "plan-takeoff",
+  "version": "0.1.0",
+  "description": "Run quantity takeoffs on building plans with the OpenTakeoff MCP server and deliver a quantities readout, Excel workbook and marked-up plan set.",
+  "author": {
+    "name": "lefteartm"
+  },
+  "license": "Apache-2.0"
+}
